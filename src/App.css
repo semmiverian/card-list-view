@@ -13,5 +13,6 @@
   .react-multi-carousel-dot-list {
     position: absolute;
     top: -20px;
+    bottom: initial;
   }
 }
