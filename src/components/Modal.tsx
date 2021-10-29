@@ -1,4 +1,4 @@
-import { Component, Fragment, ReactElement, FC } from 'react'
+import { Fragment, ReactElement } from 'react'
 import { Dialog, Transition } from '@headlessui/react'
 import { XCircleIcon } from '@heroicons/react/outline'
 
