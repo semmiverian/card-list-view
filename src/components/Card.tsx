@@ -23,7 +23,7 @@ export default function Card({ card, onClick }: IProps) {
         onClick(card)
       }}
     >
-      <img src={SpenmoIcon} className="w-10 mb-2" />
+      <img src={SpenmoIcon} alt="spenmo_company_logo" className="w-10 mb-2" />
       <h4>{cardName}</h4>
       <p>**** **** **** {cardLastFour}</p>
 
@@ -35,6 +35,7 @@ export default function Card({ card, onClick }: IProps) {
         <img
           src="https://www.freepnglogos.com/uploads/mastercard-png/mastercard-logo-mastercard-logo-png-vector-download-19.png"
           className="w-8 h-8"
+          alt="master_card_logo"
         />
       </div>
     </section>
