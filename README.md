@@ -1,5 +1,9 @@
 # Card List View
 
+## Deployed Link
+
+[Access Here](https://card-list-view.vercel.app/)
+
 ## Tech Stack
 
 Here is the stack used in this assignment:
